@@ -27,7 +27,3 @@ new members and equipment or registering staff. Also, the user can access the ex
 Petar Bulatovic
 
 [Video Demo](https://youtu.be/td67CS4sg_4)</br>
-Download link: [Link](https://mega.nz/file/iP4VhBrQ#N7ue4LUa-dVJvg7wa1sjqrWxJZXJn4-dG4vXGixpT8U)(Windows only)
-
-
-
