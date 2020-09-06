@@ -18,7 +18,7 @@ credentials are invalid, the user will be notified.
 
 
 Following a successful log-in, the user is presented with the Main Menu, which contains several features. Some of them include adding
-new members and equipment or registering staff. Also, the user can access the existing data from the database as well as modify it according to their needs.
+new members and equipment, or registering staff. Also, the user can access the existing data from the database, as well as modify it according to their needs.
 
 ![](mainMenu.gif)
 
