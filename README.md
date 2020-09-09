@@ -9,7 +9,7 @@ Software written in C#
 
 
 GMS (Gym Management System) is a record management software designed for use by a gym's authorized staff members.
-It contains an authentication system that prompts the user for the username and password. In case one of the two
+It contains an authentication system which prompts the user for the username and password. In case one of the two
 credentials are invalid, the user will be notified.
 
 ![](login.gif)
