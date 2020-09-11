@@ -1,5 +1,5 @@
 # Gym Management System
-Software written in C#
+Software written in C# and SQL
 
 
 
